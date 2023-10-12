@@ -18,7 +18,7 @@ Create a URL redirector that manages and redirects multiple URLs based on predef
 
 ### Step 2: **Developing Your Worker**
 
-Open `worker.js` and add the following code:
+Open `index.js` and add the following code:
 
    ```javascript
    export default {
