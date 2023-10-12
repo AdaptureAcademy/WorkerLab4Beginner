@@ -1,4 +1,4 @@
-**LAB 4: Bulk URL Redirector with Cloudflare Workers**
+# LAB 4: Bulk URL Redirection with Cloudflare Workers
 
 **Introduction**
 
